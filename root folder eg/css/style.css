@@ -19,18 +19,6 @@ body{ /*CSS Reset*/
 	height: 80px;
 }
 
-nav{
-
-}
-
-nav a{
-
-}
-
-nav a:hover{
-	background: #FFFFFF;
-}
-
 #content{
 	width: 100%;
 	height: auto;
